@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <HEad>
+        <a href="d:\Users\secundario\Desktop\web para pc\Inicio.html"><img src="d:\Users\secundario\Desktop\web para pc\tres lineas.png" alt="Menu" height="50"></a>
+    </HEad>
+    <center>
+    <body>
+        <font size="7"><strong><h1>Quienes Somos</h1></font>
+       <font size="6"><p height="200">Somos un apasionado grupo de chicos que compartimos una pasion en comun: el futbol. Nos unimos en el colegio para formar un equipo que representa con orgullo nuestros colores escolares en la cancha. Cada dia, entrenamos con dedicacion y esfuerzo, buscando mejorar nuestras habilidades y fortalecer nuestro espiritu de equipo. La competencia en el colegio nos ha brindado la oportunidad de forjar amistades solidas, aprender lecciones valiosas sobre el trabajo en equipo y experimentar la emocion de la competencia deportiva. Juntos, enfrentamos desafios y celebramos victorias, creando recuerdos inolvidables en cada partido. En el campo de juego, somos mucho mas que solo un grupo de chicos; somos un equipo unido por la pasion por el futbol y el deseo de dar lo mejor de nosotros en cada encuentro.</p></strong></font>
+    </body>
+    <body>
+        <img src="d:\Users\secundario\Desktop\web para pc\imagen somos.jpg" alt="genera">
+    </body>
+    </center>
+</html>
