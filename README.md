@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <HTml>
 
     <HEad>
@@ -12,7 +12,8 @@
     <ol>
     <center>
     <font size="7">
-<a href=""><strong>-Martes 26/9 1C VS 6C-</strong> </font></ol></a> 
+<a href=""><strong>-Martes 26/9 1C VS 6C-</strong> </a>
+</font></ol>
     <img src="https://lh3.googleusercontent.com/pw/ADCreHeDmahFL3bPLNRZGGIg0iTrd2kotzqm5TiypVY25PXCfdOuttoMceqofvkvcyeNnivkoZ6XHVTXBPn0yq5KJK8C7i6mn_DbS_wRgvHxI2_HwkWWNBoXGSS_F5kbq9-Vz65Pdo_0zUxmFJRqTEBBcCkRfsE2TXV97dU7QKofZYtZBpbxJOIWV80y7k2l4ErtJc--Itzg7Oy6MoymEZVE2RT5iJn6V0KwGQGyyRmIRo8YHjoV6x6PpxvGUnfRk8WfqyyT-C3xbBIucVl2CbhV0iR7f4MX8Om1EkSSO2hojCHpwrtsd1fCgk_pxJvzHn0BAb1FE14UckCYPIYZGsiAGzqAOOksTVf2UcXdfQlx6SOe5AfmMur05Vgn1dwce87yts6XuhWDy3QoWyVW7N19gPVAvd42fW_D8g9U8SRl5CyGH2-S9XgIEp9BT9PTDehwNlMS5JoG1dbwlvp59ujyTLorJ1wblwQyeTZlqpbKPrkxThCZjO54keMJ097C602NaehI6VlYgySxp8929z_IlVKmT9Gw8apfS2BgjWJcUNwcJ0nNhJSjMB4KLa9s8AoiLBORNO0C9YY9lFCB1OMvTUfjMnFVIqX_p4JkpWszPvYgSmCgiz5c3Z8hFBbWLI1kgK3_m9u4WU-qsIlwYPnsllBEHxG1DWm0TduAAbZhsMhFHe9FQgLSTm6q2aVJ38yRZQAhYPurj1IqfUvu6BaovMLH6Pb1SKgOr7sM-j7bxYAnGn-x7ZwzgYq7L5LQO1IqIOL7U0zIFM7rNQJoU3zfHpLNzjMjuGaLS8LO8dG5eqHFdaCh9b0M80KwUnfenmCjMy_HoK75Yy1GH09Td1NNDz1bXxH-PJB2MpIwlf7Ka4Kx5EiMCpxmtwZ5aGcSuy5sPKfQNHlqH6ftXMcDMV77=w929-h396-s-no?authuser=0" alt="principal">
 </body></center>
 </html>
